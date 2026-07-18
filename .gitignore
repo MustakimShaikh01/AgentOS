@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+node_modules/
+.next/
+dist/
+build/
+*.jar
+*.class
+target/
+.DS_Store
+*.log
+.idea/
+*.iml
